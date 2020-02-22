@@ -1,0 +1,1 @@
+curl -X POST "http://2018shell.picoctf.com:7949/button2.php"
